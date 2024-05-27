@@ -4,7 +4,7 @@ Simple one-liner plugin that enables Portugues-Br language localization all agen
 
 For localization of multiple languages (w/ language switcher), please refer to [Twilio PS - Flex Localization Plugin](https://github.com/twilio-professional-services/plugin-flex-localization)
 
-Credits to Everton SANTOS for the Portugues-Br translation file
+Credits to Everton Santos for the Portugues-Br translation file
 
 ![Flex 2.0 - Portugues-Br - Main](docs/doc1.png)
 
